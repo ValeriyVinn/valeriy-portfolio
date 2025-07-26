@@ -33,7 +33,7 @@ export default function Home() {
       id: "project-3",
       title: "Нотаріус",
       description: "Проект для нотаріальної контори.",
-      image: "/images/project-4.jpg",
+      image: "/images/project-3.jpg",
       github: "#",
       live: "https://notary-five.vercel.app/",
     },
@@ -43,7 +43,7 @@ export default function Home() {
       title: "Вправи",
       description:
         "Пет-проект для фулстек-практики: фронтенд (React on Github) + бекенд (Node.js, Express on Render).",
-      image: "/images/project-3.jpg",
+      image: "/images/project-4.jpg",
       github: "https://github.com/ValeriyVinn/exercises",
       live: "https://valeriyvinn.github.io/exercises/",
     },
