@@ -14,16 +14,16 @@ export default function Home() {
   const cases: Case[] = [
     {
       id: "project-1",
-      title: "Резюме",
-      description: "Моє резюме на Next.js.",
+      title: "Resume",
+      description: "My resume on Next.js.",
       image: "/images/project-1.jpg",
       github: "https://github.com/ValeriyVinn/valeriyvinn.github.io",
       live: "https://valeriyvinn-github-io.vercel.app/uk",
     },
     {
       id: "project-2",
-      title: "Моя Церква",
-      description: "Проект-подяка громаді за спільну молитву.",
+      title: "My Parish",
+      description: "A way to thank the community for our shared prayers.",
       image: "/images/project-2.jpg",
       github: "#",
       live: "https://parish-ten.vercel.app/",
@@ -31,8 +31,8 @@ export default function Home() {
 
     {
       id: "project-3",
-      title: "Нотаріус",
-      description: "Проект для нотаріальної контори.",
+      title: "Notary",
+      description: "Project for a notary office.",
       image: "/images/project-3.jpg",
       github: "#",
       live: "https://notary-five.vercel.app/",
@@ -40,9 +40,9 @@ export default function Home() {
 
     {
       id: "project-4",
-      title: "Вправи",
+      title: "Exercises",
       description:
-        "Пет-проект для фулстек-практики: фронтенд (React on Github) + бекенд (Node.js, Express on Render).",
+        "Pet project for fullstack practice: frontend (React on Github) + backend (Node.js, Express on Render).",
       image: "/images/project-4.jpg",
       github: "https://github.com/ValeriyVinn/exercises",
       live: "https://valeriyvinn.github.io/exercises/",
@@ -50,16 +50,16 @@ export default function Home() {
 
     {
       id: "project-5",
-      title: "Привіт, Слово",
-      description: "Пет-проект з вивчення лексики англійської мови.",
+      title: "Hi-Words",
+      description: "Pet project on learning English vocabulary.",
       image: "/images/project-5.jpg",
       github: "https://github.com/ValeriyVinn/hi-words",
       live: "https://valeriyvinn.github.io/hi-words/",
     },
     {
       id: "project-6",
-      title: "Фонетика",
-      description: "Пет-проект для практики фонетики англійської мови.",
+      title: "Fonetic",
+      description: "Pet project for practicing English phonetics.",
       image: "/images/project-6.jpg",
       github: "https://github.com/ValeriyVinn/phonetic",
       live: "https://valeriyvinn.github.io/phonetic/",
@@ -73,7 +73,7 @@ export default function Home() {
       <main className="min-h-screen">
         <section className="container mx-auto px-4 py-12">
           <h1 className="text-blue-700 text-5xl font-bold text-center">
-            Портфоліо
+            Portfolio
           </h1>
           {/* <p className="mt-4 max-w-2xl mx-auto text-center text-muted-foreground">
             Кілька відібраних проєктів, які демонструють мій стек, підхід до
