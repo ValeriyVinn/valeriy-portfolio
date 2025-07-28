@@ -73,7 +73,7 @@ export default function Home() {
       <main className="min-h-screen">
         <section className="container mx-auto px-4 py-12">
           <h1 className="text-blue-700 text-5xl font-bold text-center">
-            Portfolio
+            My portfolio
           </h1>
           {/* <p className="mt-4 max-w-2xl mx-auto text-center text-muted-foreground">
             Кілька відібраних проєктів, які демонструють мій стек, підхід до
