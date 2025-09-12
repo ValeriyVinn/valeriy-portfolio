@@ -62,7 +62,7 @@ export default function Home() {
       description: "Pet project for practicing English phonetics.",
       image: "/images/project-6.jpg",
       github: "https://github.com/ValeriyVinn/phonetic",
-      live: "https://valeriyvinn.github.io/phonetic/",
+      live: "https://phonetic-alpha.vercel.app/",
     },
   ];
 
