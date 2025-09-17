@@ -67,7 +67,7 @@ export default function Home() {
     {
       id: "project-7",
       title: "Test task",
-      description: "Pet project for practicing English phonetics.",
+      description: "Test-task project.",
       image: "/images/project-7.jpg",
       github: "https://github.com/ValeriyVinn/test-task",
       live: "https://test-task-omega-seven.vercel.app/uk",
