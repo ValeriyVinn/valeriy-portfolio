@@ -63,15 +63,15 @@ export default function Home() {
       image: "/images/project-6.jpg",
       github: "https://github.com/ValeriyVinn/phonetic",
       live: "https://phonetic-alpha.vercel.app/",
-    },
-    {
-      id: "project-7",
-      title: "Test task",
-      description: "Test-task project.",
-      image: "/images/project-7.jpg",
-      github: "https://github.com/ValeriyVinn/test-task",
-      live: "https://test-task-omega-seven.vercel.app/uk",
     }
+    // {
+    //   id: "project-7",
+    //   title: "Test task",
+    //   description: "Test-task project.",
+    //   image: "/images/project-7.jpg",
+    //   github: "https://github.com/ValeriyVinn/test-task",
+    //   live: "https://test-task-omega-seven.vercel.app/uk",
+    // }
   ];
 
   return (
