@@ -38,14 +38,23 @@ export default function Home() {
       live: "https://notary-five.vercel.app/",
     },
 
+    // {
+    //   id: "project-4",
+    //   title: "Exercises",
+    //   description:
+    //     "Pet project for fullstack practice: frontend (React on Github) + backend (Node.js, Express on Render).",
+    //   image: "/images/project-4.jpg",
+    //   github: "https://github.com/ValeriyVinn/exercises",
+    //   live: "https://valeriyvinn.github.io/exercises/",
+    // },
     {
       id: "project-4",
-      title: "Exercises",
+      title: "Startups",
       description:
-        "Pet project for fullstack practice: frontend (React on Github) + backend (Node.js, Express on Render).",
-      image: "/images/project-4.jpg",
-      github: "https://github.com/ValeriyVinn/exercises",
-      live: "https://valeriyvinn.github.io/exercises/",
+        "A personal idea vault for future startups — capture, refine, and revisit your next big thing.",
+      image: "/images/project-7.jpg",
+      github: "https://github.com/ValeriyVinn/from-behind-the-line",
+      live: "https://from-behind-the-line.vercel.app/en",
     },
 
     {
@@ -63,15 +72,7 @@ export default function Home() {
       image: "/images/project-6.jpg",
       github: "https://github.com/ValeriyVinn/phonetic",
       live: "https://phonetic-alpha.vercel.app/",
-    }
-    // {
-    //   id: "project-7",
-    //   title: "Test task",
-    //   description: "Test-task project.",
-    //   image: "/images/project-7.jpg",
-    //   github: "https://github.com/ValeriyVinn/test-task",
-    //   live: "https://test-task-omega-seven.vercel.app/uk",
-    // }
+    },
   ];
 
   return (
