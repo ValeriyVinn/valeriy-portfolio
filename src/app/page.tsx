@@ -52,7 +52,7 @@ export default function Home() {
       title: "Startups",
       description:
         "A personal idea vault for future startups — capture, refine, and revisit your next big thing.",
-      image: "/images/project-7.jpg",
+      image: "/images/psy-syntax.png",
       github: "https://github.com/ValeriyVinn/from-behind-the-line",
       live: "https://from-behind-the-line.vercel.app/en",
     },
